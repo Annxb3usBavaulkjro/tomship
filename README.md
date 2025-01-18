@@ -9,3 +9,6 @@ ChatSphere offers secure, peer-to-peer messaging with end-to-end encryption.
 ## Installation
 1. Clone the repository: `git clone https://github.com/user/chatsphere.git`
 2. Install dependencies: `npm install`
+## Setup
+Start the app with: `npm run start`
+Connect via: `http://localhost:4000`.
