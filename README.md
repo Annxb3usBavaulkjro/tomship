@@ -17,3 +17,5 @@ Connect via: `http://localhost:4000`.
 - Web browser (Chrome, Firefox, or Edge)
 ## Usage Example
 
+## Contributing
+We welcome contributions! Check [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
