@@ -21,3 +21,5 @@ Connect via: `http://localhost:4000`.
 We welcome contributions! Check [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## License
 ChatSphere is licensed under the GPL-3.0 License. See [LICENSE](LICENSE).
+## Testing
+Run tests with: `npm test`
