@@ -23,3 +23,6 @@ We welcome contributions! Check [CONTRIBUTING.md](CONTRIBUTING.md) for guideline
 ChatSphere is licensed under the GPL-3.0 License. See [LICENSE](LICENSE).
 ## Testing
 Run tests with: `npm test`
+## FAQ
+Q: Is ChatSphere secure for sensitive conversations?
+A: Yes, it uses end-to-end encryption. See [security.md](docs/security.md).
