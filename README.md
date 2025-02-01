@@ -26,3 +26,5 @@ Run tests with: `npm test`
 ## FAQ
 Q: Is ChatSphere secure for sensitive conversations?
 A: Yes, it uses end-to-end encryption. See [security.md](docs/security.md).
+## Community
+Join our community on [Matrix](https://matrix.to/#/#chatsphere:matrix.org).
